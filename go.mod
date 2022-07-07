@@ -3,6 +3,7 @@ module github.com/aabri-ankorstore/go_config
 go 1.18
 
 require (
+	github.com/aabri-ankorstore/go_filesystem v0.0.0-20220707115041-7193c4857e57
 	github.com/aabri-ankorstore/go_util v0.0.0-20220707113904-41b9c44ed5c5
 	github.com/go-errors/errors v1.4.2
 	github.com/qri-io/jsonschema v0.2.1

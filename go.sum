@@ -40,6 +40,8 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/aabri-ankorstore/go_errorhandling v0.0.0-20220707112738-ec61e7bfda30 h1:tem2Q4u193trRuTT64N1V4ATK740bC03Z4hQQ+fJQJM=
 github.com/aabri-ankorstore/go_errorhandling v0.0.0-20220707112738-ec61e7bfda30/go.mod h1:30GAs7thzYkwQ9WcWObXuaHPUOqOFO4/yekG4AAqOMk=
+github.com/aabri-ankorstore/go_filesystem v0.0.0-20220707115041-7193c4857e57 h1:BavEYQYst/c8RhU2+Jp/kVjrlCAi2/pseXjV+xZh+vs=
+github.com/aabri-ankorstore/go_filesystem v0.0.0-20220707115041-7193c4857e57/go.mod h1:V1aOylU8RVh21wLesF8nXPJch1H33BcE18ChIOI9ttE=
 github.com/aabri-ankorstore/go_util v0.0.0-20220707113904-41b9c44ed5c5 h1:uDUkySPjdbemXL6hhZgyJgnEd9ujFVqw3eC/SCWt4Jc=
 github.com/aabri-ankorstore/go_util v0.0.0-20220707113904-41b9c44ed5c5/go.mod h1:kPaGeo9UeZMJMfCGL1jComEuwWD1bg8COG5RnLyuVeA=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
